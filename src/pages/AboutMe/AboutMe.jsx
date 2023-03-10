@@ -1,4 +1,5 @@
 import ModelPost from "../../components/ModelPost/ModelPost";
+import Banner from "../../components/Banner/Banner";
 import styles from './aboutme.module.scss'
 export default function AboutMe() {
   return (
