@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Header from "./components/Header/Header"
 import AboutMe from "./pages/AboutMe/AboutMe"
-import HomePage from "./pages/HomePage/Homepage.jsx"
+import HomePage from "./pages/HomePage/Homepage"
 import Main from "./components/Main/Main"
 import PostLink from "./pages/PostLink/PostLink"
 import Footer from "./components/Footer/Footer"
