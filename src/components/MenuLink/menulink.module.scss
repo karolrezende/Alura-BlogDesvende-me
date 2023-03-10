@@ -1,0 +1,11 @@
+@import '../../index.scss';
+.link {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: $cor-fonte-principal;
+    text-decoration: none;
+    text-transform: uppercase;
+    &__under{
+        border-bottom: 1px solid black;
+    }
+}

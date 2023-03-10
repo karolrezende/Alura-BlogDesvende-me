@@ -1,0 +1,12 @@
+.header{
+    padding: 1em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 3rem;
+}
+@media (max-width: 744px) {
+    .header{
+        height: 72px;
+    }
+}
