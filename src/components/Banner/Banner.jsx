@@ -10,7 +10,7 @@ export default function Banner() {
                 espero que aprenda algo novo :)</p>
         </div>
         <div className={styles.imagens}>
-            <img src='src/assets/circulo_colorido.png' className={styles.circuloColorido}/>
+            <img src='/assets/circulo_colorido.png' className={styles.circuloColorido}/>
             <img className={styles.minhaFoto} src='https://github.com/karolrezende.png'/> 
         </div>
     </div>
