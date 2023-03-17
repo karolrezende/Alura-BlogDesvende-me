@@ -18,8 +18,6 @@ export default function PostLink() {
       return post.id !== Number(params.id)})
     .sort((a,b)=> b.id - a.id)
     .slice((0,3 ))
-
-  console.log(postFiltered)
   return (
     <ModelPost title={post.titulo}>
       <div className={styles.post_markdown_container}>
